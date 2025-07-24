@@ -1,6 +1,6 @@
-# Minor Projects Repository 
+# Mini Projects Repository 
 
-Welcome to **Minor-Projects**! This repository contains small Java projects that I built for learning and fun. Each project has a JAR file for easy execution.
+Welcome to **Mini-Projects**! This repository contains small Java projects that I built for learning and fun. Each project has a JAR file for easy execution.
 
 ## Projects Included:
 
